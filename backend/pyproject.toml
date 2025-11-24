@@ -1,0 +1,14 @@
+[project]
+name = "tinyurl-backend"
+version = "0.1.0"
+description = "TinyURL Flask backend"
+requires-python = ">=3.12"
+dependencies = [
+    "flasgger>=0.9.7.1",
+    "flask>=3.0.3",
+    "gunicorn>=22.0.0",
+    "pendulum>=3.1.0",
+    "psycopg[binary]>=3.2.1",
+    "pytest>=9.0.1",
+]
+
