@@ -3,7 +3,7 @@
 ### 1. Setup
 
 ```bash
-git clone github.com/remicorne/tinyurl.git
+git clone https://github.com/remicorne/tinyurl.git
 cd tinyurl
 docker compose up
 ```
